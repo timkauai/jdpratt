@@ -1,0 +1,293 @@
+/* colors:  lightlight blue: C9D4EA light blue: 92AFD7 green/blue: 5A7684 greenish:395B50 dark green: 1F2F16 
+			URL1:https://coolors.co/c9d4ea-92afd7-5a7684-395b50-1f2f16 
+			baby blue: 7FBEEB Magenta:32292F
+*/
+.page {
+	width: 900px;
+	margin: 10px auto 10px auto;
+	background-color: #88bdbc;
+	padding: 30px;
+	margin-top: 100px;
+}
+
+.pagetitle{
+	font-size: 40px;
+	text-align: center;
+}
+
+.smalltext{
+	font-size: 15px;
+	text-align: center;
+}
+
+#header{
+	width: 100%;
+}
+
+.header p{
+	text-align: center;
+	color: #32292F;
+}
+
+.top{
+	padding: 10px 10px;
+	width: 250px;
+	height: 500px;
+}
+
+.container1{
+	background-color: #88BDBC;
+	color: #ffffff;
+	font-size: 30px;
+}
+
+#pop{
+	background-color: #5A7684;
+	color: #92AFD7;
+	float: left;
+	width: 350px;
+	margin-left: 200px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+#recent{
+	background-color: #5A7684;
+	color: #92AFD7;
+	width: 350px;
+	float:right;
+	margin-right: 200px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+
+}
+
+#mfp{
+	background-color: #395B50;
+	margin-top: 30px;
+	width: 100%;
+	height: 500px;
+}
+
+#mfp p{
+	padding-top: 30px;
+	text-align: center;
+}
+
+#title{
+	text-align: center;
+	font-size: 20px;
+}
+
+.inspiration{
+	background-color: #92AFD7;
+	width: 100%;
+	height: 250px;
+	margin-top: 200px;
+}
+
+#lefttop{
+	padding-top: 60px;
+	padding-left: 250px;
+}
+
+#left{
+	margin-top: 10px;
+	margin-left: 235px;
+}
+#right{
+	margin-top: 30px;
+	margin-right: 100px;
+	float: right;
+}
+
+.header2{
+	background-image: url("header2.jpg");
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 50% 50%; 
+	height: 100%;
+	padding-top: 278px; 
+	padding-bottom: 279px;
+	padding-left: 900px;
+	color: #ffffff;
+	margin-bottom: none;
+}
+
+#navibuts{
+	background-color: #5A7684;
+	color: #92AFD7;
+	float: left;
+	width: 150px;
+	margin-left: 30px;
+	margin-top: 20px;
+}
+
+#navibuts1{
+	background-color: #5A7684;
+	color: #92AFD7;
+	width: 150px;
+	float:right;
+	margin-right: 30px;
+	margin-top: 20px;
+	padding-right: 10px; 
+	padding-left: 10px;
+}
+
+
+
+.blogwriting{
+margin-top: 100px;
+padding: 25px;
+width: 75%;
+text-align: left;
+margin-left: 12.5%;
+background-color: #C5D1EB; 
+}
+
+.desc{
+	margin-left: 50px;
+	background-color: #AFC2EA;
+	padding: 15px;
+}
+
+.blogjump{
+	text-decoration: none;
+	color: #2F4858;
+}
+
+.blogjump:hover{
+	color: #7FBEEB;
+}
+
+.wtc{
+	text-align: center;
+	color: #32292F;
+	background-color: #7FBEEB;
+	padding-bottom: 20px;
+}
+
+.tip{
+	padding: 0px;
+	background-color: #7FBEEB;
+	color: #32292F;
+	float: left;
+	margin-left: 20%;
+}
+
+.button1{
+	text-decoration: none;
+	padding: 5px;
+	font-size: 25px;
+	background-color: #C9D4EA; 
+	color: #1F2F16;
+}
+
+.button1:hover{
+	background-color: #92AFD7;
+	color: #1F2F16;
+}
+
+.qotd{
+	padding: 0px;
+	background-color: #7FBEEB;
+	color: #32292F;
+	float: right;	
+	margin-right: 20%;
+}
+
+.p1{
+	margin-top: 225px;
+	padding: 10px;
+	width: 10%;
+	margin-left: 45%;
+	background-color: #7FBEEB;
+	font-size: 21px;
+}
+
+#d{
+  margin-top: 70px;
+ width: 25%;
+ background-color: #395B50;
+ padding: 10px;
+ margin-left: 37.5%;
+ color: #C9D4EA;
+
+}
+
+.footer{
+	background-color: #92AFD7;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 27%;
+
+}
+
+.footer1{
+	background-color: #92AFD7;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	margin-top: 5%;
+
+}
+
+.goals{
+	float: left;
+	background-color: #5A7684;
+	width: 30%;
+	margin-left: 10%;
+	margin-top: 3%;
+	text-align: center;
+}
+
+.books{
+	float: right;
+	background-color: #5A7684;
+	width: 30%;
+	margin-right: 10%;
+	margin-top: 3%;
+	text-align: center;
+}
+
+.coverclick{
+	height: 150px;
+	margin-right: 10px;
+}
+
+#pleft {
+	text-align: left;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#nod{
+	text-decoration: none;
+	color: #C5D1EB;
+}
+#nod:hover{
+	color: #ffffff;
+}
+
+.click{
+	background-color: #5A7684;
+	padding: 20px;
+	margin: 30px;
+
+}
+
+.click img{
+	width: 300px;
+}
+
+.click th{
+	margin-right: 30px;
+}
+
+.bp2{
+	margi: 100px;
+	padding-left: 20px;
+}
